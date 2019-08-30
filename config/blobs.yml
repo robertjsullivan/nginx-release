@@ -1,24 +1,24 @@
-headers-more-nginx-module-0.30.tar.gz:
-  size: 27793
-  object_id: 62c97279-9ad3-493f-4eea-84d285af8e04
-  sha: a188a399f3e365a0831585a9d7aa0e6ed1a75f0d
-nginx-1.14.0.tar.gz:
-  size: 1016272
-  object_id: e22c2f26-02ee-494d-73cf-f8ca1d635a34
-  sha: 016ab1a12c9a0c9444f9073e4300223ffd6fadbe
-nginx-1.14.0.tar.gz.asc:
+headers-more-nginx-module-0.33.tar.gz:
+  size: 28130
+  object_id: d81868f3-9a1c-4463-5eba-479205e9a600
+  sha: sha256:a3dcbab117a9c103bc1ea5200fc00a7b7d2af97ff7fd525f16f8ac2632e30fbf
+nginx-1.17.3.tar.gz:
+  size: 1034586
+  object_id: 91bbfeee-a48b-4c7a-56dd-45a5567a9bb9
+  sha: sha256:3b84fe1c2cf9ca22fde370e486a9ab16b6427df1b6ea62cdb61978c9f34d0f3c
+nginx-1.17.3.tar.gz.asc:
   size: 455
-  object_id: 73c0e4e1-fa20-416e-5135-5403ae1baa3a
-  sha: e51a494bb6b676ce1da65675e7bce62f23950b32
+  object_id: 6ee94dd8-83d7-4525-7398-6d2d77e35dfd
+  sha: sha256:53cff9d482a3a9784783b595d76776d571ce4509ce59642d3472d5dbb1d5ea24
 nginx-upload-module-2.2.tar.gz:
-  size: 28505
-  object_id: 62564e24-8b6c-4de5-4c52-13beb4f83fd1
-  sha: 74ccd116525a155db76f92a1cd484d9516a70398
-pcre-8.42.tar.gz:
-  size: 2081413
-  object_id: 34bdf5d9-af50-487f-66f5-adce0ec6da64
-  sha: ee505270446f4c4bf52ac1a371335fdbb14465cb
-pcre-8.42.tar.gz.sig:
+  size: 25796
+  object_id: a495133c-c6ea-42c7-47f7-3489bd96cc97
+  sha: sha256:b1c26abe0427180602e257627b4ed21848c93cc20cefc33af084983767d65805
+pcre-8.43.tar.gz:
+  size: 2085854
+  object_id: b536ea48-ca20-47bb-726d-c5d8843074a5
+  sha: sha256:0b8e7465dc5e98c757cc3650a20a7843ee4c3edf50aaf60bb33fd879690d2c73
+pcre-8.43.tar.gz.sig:
   size: 310
-  object_id: d999d9f9-4bc5-497a-40fd-3c68eb8c7359
-  sha: 3e539163146ec2c62d74d438ba0d3b01fb070740
+  object_id: 17ca96ab-3afd-48b2-6436-fcbc031b6d9a
+  sha: sha256:4c8dcb2132dba1eb849127e010154c9de33dfb90615193e24fb19de81c00b2a4
