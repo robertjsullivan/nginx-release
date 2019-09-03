@@ -7,10 +7,10 @@ echo "Extracting headers-more module..."
 tar xzvf headers-more-nginx-module-0.33.tar.gz
 
 echo "Extracting nginx_upload module..."
-tar xzvf nginx-upload-module-2.2.tar.gz
+tar xzvf nginx-upload-module-2.3.tar.gz
 
 echo "Patching nginx upload module"
-pushd nginx-upload-module-2.2
+pushd nginx-upload-module-2.3.0
   patch -p1 < ../nginx-upload-module.patch
 popd
 
@@ -26,7 +26,7 @@ pushd nginx-1.17.3
     --add-module=../headers-more-nginx-module-0.33 \
     --with-http_ssl_module \
     --with-http_dav_module \
-    --add-module=../nginx-upload-module-2.2
+    --add-module=../nginx-upload-module-2.3.0
   # todo darwin
 
   make

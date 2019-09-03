@@ -5,6 +5,6 @@ files:
 - nginx-1.17.3.tar.gz
 - headers-more-nginx-module-0.33.tar.gz
 - pcre-8.43.tar.gz
-- nginx-upload-module-2.2.tar.gz
+- nginx-upload-module-2.3.tar.gz
 - nginx-upload-module.patch
 - runtime.env

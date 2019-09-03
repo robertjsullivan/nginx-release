@@ -10,10 +10,10 @@ nginx-1.17.3.tar.gz.asc:
   size: 455
   object_id: 6ee94dd8-83d7-4525-7398-6d2d77e35dfd
   sha: sha256:53cff9d482a3a9784783b595d76776d571ce4509ce59642d3472d5dbb1d5ea24
-nginx-upload-module-2.2.tar.gz:
-  size: 25796
-  object_id: a495133c-c6ea-42c7-47f7-3489bd96cc97
-  sha: sha256:b1c26abe0427180602e257627b4ed21848c93cc20cefc33af084983767d65805
+nginx-upload-module-2.3.tar.gz:
+  size: 40139
+  object_id: e3c987aa-2915-4576-6af7-0d35c8137884
+  sha: sha256:c86e318addb9c88d70fdbd58ff1f6ef6f404a93070f6db8017a1f880c97946c4
 pcre-8.43.tar.gz:
   size: 2085854
   object_id: b536ea48-ca20-47bb-726d-c5d8843074a5
